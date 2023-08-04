@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\bin\Debug\AppExemplo2.exe.config
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\bin\Debug\AppExemplo2.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\bin\Debug\AppExemplo2.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.Form1.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormExemploRotulos.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.Properties.Resources.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormAlertas.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormExemploAlerta.resources
