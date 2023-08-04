@@ -1,0 +1,12 @@
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\bin\Debug\AppConvert.exe.config
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\bin\Debug\AppConvert.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\bin\Debug\AppConvert.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.Form1.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.Properties.Resources.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\LPVI\AppConvert\AppConvert\obj\Debug\AppConvert.formularios.FormConverterHecparaAlq.resources
