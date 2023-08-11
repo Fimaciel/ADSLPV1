@@ -87,6 +87,9 @@
     <EmbeddedResource Include="formularios\FormExemploAlerta.resx">
       <DependentUpon>FormExemploAlerta.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FormExemploComboBox.resx">
+      <DependentUpon>FormExemploComboBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="formularios\FormExemploRotulos.resx">
       <DependentUpon>FormExemploRotulos.cs</DependentUpon>
     </EmbeddedResource>

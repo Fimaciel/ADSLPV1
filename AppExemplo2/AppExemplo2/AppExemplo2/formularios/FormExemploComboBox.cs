@@ -15,6 +15,8 @@ namespace AppExemplo2.formularios
         public FormExemploComboBox()
         {
             InitializeComponent();
+            txtPercDesconto.Visible = false;
+            lbPercDesconto.Visible = false;
         }
     }
 }

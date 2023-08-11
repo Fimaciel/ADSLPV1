@@ -12,3 +12,4 @@ C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo
 C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.pdb
 C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormAlertas.resources
 C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormExemploAlerta.resources
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\TreinandoC-sharp\AppExemplo2\AppExemplo2\AppExemplo2\obj\Debug\AppExemplo2.formularios.FormExemploComboBox.resources

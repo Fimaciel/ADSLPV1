@@ -30,6 +30,7 @@ namespace AppExemplo2.formularios
             txtValor1.Select(); 
         }
 
+     
         private void BtnCalcular_Click(object sender, EventArgs e)
         {
             if (txtValor1.Text == "" && txtValor2.Text == "")
