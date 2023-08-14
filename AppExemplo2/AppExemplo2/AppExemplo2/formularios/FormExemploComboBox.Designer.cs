@@ -59,6 +59,7 @@
             this.BtnNovo.TabIndex = 24;
             this.BtnNovo.Text = "Novo";
             this.BtnNovo.UseVisualStyleBackColor = true;
+            this.BtnNovo.Click += new System.EventHandler(this.BtnNovo_Click);
             // 
             // BtnCalcular
             // 
@@ -68,6 +69,7 @@
             this.BtnCalcular.TabIndex = 23;
             this.BtnCalcular.Text = "Calcular";
             this.BtnCalcular.UseVisualStyleBackColor = true;
+            this.BtnCalcular.Click += new System.EventHandler(this.BtnCalcular_Click);
             // 
             // txtPercDesconto
             // 
@@ -126,11 +128,12 @@
             "Cliente Ouro: 20%",
             "Cliente VIP: 15%",
             "Cliente Comum: 10%",
-            "Cliente Aleatório: 5%"});
+            "Cliente Aleatório"});
             this.cbTipoCliente.Location = new System.Drawing.Point(90, 79);
             this.cbTipoCliente.Name = "cbTipoCliente";
             this.cbTipoCliente.Size = new System.Drawing.Size(156, 21);
             this.cbTipoCliente.TabIndex = 26;
+            this.cbTipoCliente.SelectedIndexChanged += new System.EventHandler(this.cbTipoCliente_SelectedIndexChanged);
             // 
             // label4
             // 
